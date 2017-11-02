@@ -326,7 +326,7 @@
 }
 
 .prettyprint.code .kwd {
-    color: #8464c4
+    color: #4dca6c
 }
 
 .prettyprint.code .com {
@@ -334,7 +334,7 @@
 }
 
 .prettyprint.code .typ {
-    color: #7272ca
+    color: #4dca6c
 }
 
 .prettyprint.code .lit {
@@ -342,7 +342,7 @@
 }
 
 .prettyprint.code .pun {
-    color: #5485b6
+    color: #4dca6c
 }
 
 .prettyprint.code .clo,
@@ -356,7 +356,7 @@
 }
 
 .prettyprint.code .atv {
-    color: #5485b6
+    color: #4dca6c
 }
 
 .prettyprint.code .dec {
@@ -368,7 +368,7 @@
 }
 
 .prettyprint.code .fun {
-    color: #7272ca
+    color: #4dca6c
 }
 
 .prettyprint.code.lang-md * {
